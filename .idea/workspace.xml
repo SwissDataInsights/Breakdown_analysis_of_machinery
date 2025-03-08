@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5081b5e-2563-46c5-8f41-2c2a4b04ed2b" name="Changes" comment="code update">
+    <list default="true" id="b5081b5e-2563-46c5-8f41-2c2a4b04ed2b" name="Changes" comment="final draft">
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simulated_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +206,7 @@
       <updated>1741292791274</updated>
       <workItem from="1741292792311" duration="4277000" />
       <workItem from="1741365888671" duration="4000" />
-      <workItem from="1741453504971" duration="2453000" />
+      <workItem from="1741453504971" duration="3180000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -232,7 +232,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741297419342</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="final draft">
+      <option name="closed" value="true" />
+      <created>1741456246668</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741456246668</updated>
+    </task>
+    <task id="LOCAL-00005" summary="final draft">
+      <option name="closed" value="true" />
+      <created>1741456279861</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741456279861</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,7 +257,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="code update" />
-    <option name="LAST_COMMIT_MESSAGE" value="code update" />
+    <MESSAGE value="final draft" />
+    <option name="LAST_COMMIT_MESSAGE" value="final draft" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Machine_downtimes$main.coverage" NAME="main Coverage Results" MODIFIED="1741453647518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
