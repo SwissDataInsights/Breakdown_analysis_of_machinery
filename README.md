@@ -148,6 +148,37 @@ How to interpret this?
 
 In practice, this means that younger machines predominate among the machines with the lowest risk of failure (which is not surprising, as the age of the machine increases the probability of failure), and also the moisture content remains in moderate ranges (with a tendency towards values around 40-50%).
 
+Poniżej znajdziesz przykładowy opis, który możesz dodać do pliku README, aby przedstawić rekomendowane optymalne warunki produkcji oraz interpretację wyników:
+
+---
+
+### Recommended Optimal Production Conditions
+
+Based on the analysis of machines with the lowest failure risk, we have determined the optimal production conditions using the median values of key parameters. These conditions represent the most favorable operating ranges that minimize the risk of machine failure.
+
+**Optimal Conditions:**
+
+- **Production Time:** 70.96  
+  This indicates that maintaining a production time around 71 units (e.g., minutes) is associated with lower failure rates.
+  
+- **Units Produced:** 56.00  
+  Operating at an output level of about 56 units per production cycle appears to be optimal.
+  
+- **Temperature:** 76.64  
+  The analysis suggests that a production environment with a temperature around 76.6 (°F/°C, depending on the measurement unit) is favorable.
+  
+- **Humidity:** 39.23  
+  Keeping the humidity near 39% helps in reducing the risk of machine breakdown.
+  
+- **Machine Age:** 1.63  
+  The results indicate that machines around 1.63 years old have a lower probability of failure.
+
+**Predicted Failure Probability:** 0.0133  
+Under these recommended conditions, the predicted failure probability is approximately 1.33%, which is very low. This suggests that if production parameters are maintained close to these values, the risk of machine breakdown can be significantly minimized.
+
+**Implications for Production:**  
+Implementing these optimal conditions could lead to improved operational efficiency and reduced downtime. It provides a data-driven basis for process adjustments and preventive maintenance strategies.
+
 ---
 
 ## Next Steps
